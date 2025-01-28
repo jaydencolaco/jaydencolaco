@@ -6,7 +6,7 @@
 - 💬 Ask me about Hackathons or the time I scored a hattrick in the semi-finals of the football tournament.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jefin3273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jefin3273" height="30" width="40" /></a>
+<a href="https://dev.to/jayden_colaco_8183239c198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaydencolaco" height="30" width="40" /></a>
 <a href="https://twitter.com/jefin3273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jefin3273" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jefin john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jefin john" height="30" width="40" /></a>
 <a href="https://instagram.com/jefin3273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jefin3273" height="30" width="40" /></a>
