@@ -10,9 +10,6 @@
 <a href="https://x.com/ColacoJayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaydencolaco" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jayden-colaco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydencolaco" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jaydencolaco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaydencolaco" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jefinjohn3273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jefinjohn3273" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jefin john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaydencolaco" height="30" width="40" /></a>
-</p>
 
 
 <!--
