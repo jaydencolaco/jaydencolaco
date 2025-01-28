@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a third-year Computer Science Engineering student at Fr. Conceicao Rodrigues College of Engineering, Bandra, Mumbai. Welcome to my GitHub! 🚀
+# Hi there 👋 I'm Jayden Colacoa third-year Computer Science Engineering student at Fr. Conceicao Rodrigues College of Engineering, Bandra, Mumbai. Welcome to my GitHub! 🚀
  ## 🔭 I’m currently working on: 
  - Revolutionizing indoor navigation with AI-powered apps and AR overlays  and writing a research paper on the same🌐📍. At the same time I also freelance to build websites for various clients in Next.js
   ## 🌱 I’m currently learning:
