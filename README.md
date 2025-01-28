@@ -2,7 +2,8 @@
  ## 🔭 I’m currently working on: 
  - Revolutionizing indoor navigation with AI-powered apps and AR overlays  and writing a research paper on the same🌐📍. At the same time I also freelance to build websites for various clients in Next.js
   ## 🌱 I’m currently learning:
-  - Next.js, Three.js and python
+  - Next.js, Three.js and python.
+  - Also learning and figuring out how to write research papers with a goal to convery useful and reusable ideas.
   ## 👯 I'm always open to collaboration on:
   - Various exciting projects. Whether it's AI/ML, web development, or any innovative tech project, feel free to reach out.  Building open-source projects that make life easier, like smart assistants and productivity tools 🌟💻
 ##  🤔 I’m looking for help with:
