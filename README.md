@@ -4,7 +4,7 @@
 - 👯 I'm always open to collaboration on exciting projects. Whether it's AI/ML, web development, or any innovative tech project, feel free to reach out.  Building open-source projects that make life easier, like smart assistants and productivity tools 🌟💻
 - 🤔 I’m looking for help with: Building the next big thing in tech 🚀 and finding the perfect coffee blend ☕
 - 💬 Ask me about Hackathons or the time I scored a hattrick in the semi-finals of the football tournament.
-- **📫 How to reach me:  **
+- 📫 How to reach me:  
  i) Gmail    - jaydencolaco20@gmail.com  
 ii) LinkedIn - https://www.linkedin.com/in/jayden-colaco/  
 
