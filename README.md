@@ -8,7 +8,7 @@
 ##  🤔 I’m looking for help with:
  - Building the next big thing in tech 🚀 and finding the perfect coffee blend ☕
 - 💬 Ask me about Hackathons or the time I scored a hattrick in the semi-finals of the football tournament.
-## Connect with me:
+## 📫Connect with me:
 <a href="https://x.com/ColacoJayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaydencolaco" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jayden-colaco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydencolaco" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jaydencolaco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaydencolaco" height="30" width="40" /></a>
